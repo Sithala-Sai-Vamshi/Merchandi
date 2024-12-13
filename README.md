@@ -17,7 +17,7 @@ You can view the live demo of the project at:
 
 ## Preview
 
-![Merchandi Preview](images/Page1.png)
+![Merchandi Preview](images/Page.png)
 
 ## Technologies Used
 
