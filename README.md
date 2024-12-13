@@ -23,7 +23,6 @@ You can view the live demo of the project at:
 
 - **HTML**: Markup for the structure of the webpage.
 - **CSS**: Styling and layout management.
-- **JavaScript**: For interactivity, dynamic content, and user interactions.
 
 ## Installation
 
