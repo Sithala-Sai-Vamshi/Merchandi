@@ -1,5 +1,0 @@
-                            DESCRIPTION - MERCHANDI
-
-
-       Merchendi, a dynamic web page created using the powerful trio of HTML, CSS, and JavaScript, caters primarily to the esteemed students of IIT Mandi. The genesis of this project stems from a prevalent issue – the lack of a centralized source for event merchandise distribution, resulting in inconvenience for both distributors and students.
-        Driven by the desire to streamline this process, I initiated the development of Merchendi. Currently, the web page is up and running, featuring a well-crafted user interface that has been meticulously designed using HTML, CSS, and JavaScript. However, the journey doesn't end here; the vision is to expand and enhance the website, offering a comprehensive solution for the efficient distribution of event merchandise at IIT Mandi, making it a valuable resource for the entire student community.
